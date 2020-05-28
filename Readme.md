@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="300"  src="https://media.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif">
+</p>
+
 <h3 align="center">
   Desafio 4: Introdução ao React
 </h3>
@@ -14,19 +18,14 @@ As informações contidas na interface são **estáticas** e não precisam refle
 
 ### Tela da aplicação
 
-![Facebook](.github/facebook.png)
+![facebook](https://user-images.githubusercontent.com/35976070/83101896-bd976200-a089-11ea-8c54-41561a7faa35.png)
 
 O layout não precisa ficar exatamente igual, você pode utilizar sua criatividade para modificar da maneira que preferir.
 
 O mais importante é que todos elementos apareçam em tela.
 
-O layout da aplicação está [nesse link](.github/layout.sketch) que pode ser aberto por essa ferramenta gratuita e online: https://www.figma.com/
 
 ### Componentes
-
-Na imagem abaixo destaquei cada componente que você criará e abaixo da imagem está a descrição e responsabilidades de cada um:
-
-![Componentes](.github/components.png)
 
 **Header (Amarelo):** Responsável por exibir a logo e o link para acessar o perfil;
 
